@@ -1,6 +1,6 @@
 //Testando branche experimentos
 public class Fatorial {
-	//Versao recursiva do calculo do fatorial
+	//Versao recursiva do calculo do fatorial, incluindo o teste para n < 0
 	public int calcularFatorial(int n) throws IllegalArgumentException{
 
 		if (n < 0)
