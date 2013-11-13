@@ -3,7 +3,7 @@ public class TesteFatorial {
 	public static void main (String[] args) {
 
 		Fatorial fatorial = new Fatorial();
-		System.out.println(fatorial.calcularFatorial(-6));
+		System.out.println(fatorial.calcularFatorial(4));
 
 	}
 
